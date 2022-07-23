@@ -4,7 +4,7 @@
 
 My name is Sibabale Joja I am **Full Stack Software Developer** working as a **Front End Developer** [Rawson Property](https://rawson.co.za/), I am also a founder of a FinTech startup called [Chama](https://www.chama.money).
 
-I have a passion and experience of working in financial services sector and real estate. I love solving real world problems that have a positive impact in society.
+I have a passion and experience of working in the financial services sector and real estate. I love solving real world problems that have a positive impact in society.
 
 ## 🛠️ Skills
 
@@ -34,6 +34,7 @@ I have a passion and experience of working in financial services sector and real
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![graphql](https://img.shields.io/badge/Graphql-404D59?style=for-the-badge)
+![mongo-db](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Backend as a Service (BaaS)
 
@@ -41,6 +42,11 @@ I have a passion and experience of working in financial services sector and real
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### Testing
+
+![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Design Tools
 
