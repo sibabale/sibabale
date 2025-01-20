@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-My name is Sibabale Joja I am **Full Stack Software Developer** working as a **Front End Developer** [Rawson Property](https://rawson.co.za/), I am also a founder of a FinTech startup called [Chama](https://www.chama.money).
+My name is Sibabale Joja I am **Full Stack Software Developer** with over a decade working in startup and large corporate companies building and managing large scale systems.
 
 I have a passion and experience of working in the financial services sector and real estate. I love solving real world problems that have a positive impact in society.
 
